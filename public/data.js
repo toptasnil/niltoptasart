@@ -1,12 +1,5 @@
 window.globalSiteData = {
-    "odullu": [
-        {
-            "title": "Resim Yarışması 1.liği",
-            "desc": "Sulu Boya / 2023",
-            "img": "https://picsum.photos/seed/odul1/600/800",
-            "icon": "🥇"
-        }
-    ],
+    "odullu": [],
     "dijital": [
         {
             "title": "PYP Sergisi Sunum Davet Afişi",
@@ -92,6 +85,13 @@ window.globalSiteData = {
             "desc": "Pastel Boya / 2024",
             "img": "https://picsum.photos/seed/odul2/600/600",
             "icon": "🎨",
+            "originTab": "odullu"
+        },
+        {
+            "title": "Resim Yarışması 1.liği",
+            "desc": "Sulu Boya / 2023",
+            "img": "https://picsum.photos/seed/odul1/600/800",
+            "icon": "🥇",
             "originTab": "odullu"
         }
     ],
