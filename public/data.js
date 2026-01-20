@@ -5,18 +5,6 @@ window.globalSiteData = {
             "desc": "Sulu Boya / 2023",
             "img": "https://picsum.photos/seed/odul1/600/800",
             "icon": "🥇"
-        },
-        {
-            "title": "Okul Sergisi",
-            "desc": "Pastel Boya / 2024",
-            "img": "https://picsum.photos/seed/odul2/600/600",
-            "icon": "🎨"
-        },
-        {
-            "title": "Jüri Özel Ödülü",
-            "desc": "Karakalem / 2023",
-            "img": "https://picsum.photos/seed/odul3/600/900",
-            "icon": "🌟"
         }
     ],
     "dijital": [
@@ -91,6 +79,20 @@ window.globalSiteData = {
             "img": "https://picsum.photos/seed/dijital2/600/600",
             "icon": "🌃",
             "originTab": "dijital"
+        },
+        {
+            "title": "Jüri Özel Ödülü",
+            "desc": "Karakalem / 2023",
+            "img": "https://picsum.photos/seed/odul3/600/900",
+            "icon": "🌟",
+            "originTab": "odullu"
+        },
+        {
+            "title": "Okul Sergisi",
+            "desc": "Pastel Boya / 2024",
+            "img": "https://picsum.photos/seed/odul2/600/600",
+            "icon": "🎨",
+            "originTab": "odullu"
         }
     ],
     "hakkimda": {
